@@ -1,6 +1,6 @@
 <?php
 
 echo "hello word!";
-echo 'create a new branch by master';
+echo 'create a new branch by master sove conflict';
 
 ?>
